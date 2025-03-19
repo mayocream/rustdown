@@ -1,6 +1,8 @@
 [package]
 name = "rustdown"
+description = "Say goodbye to ferris!"
 version = "0.1.0"
 edition = "2024"
+license-file = "LICENSE"
 
 [dependencies]
